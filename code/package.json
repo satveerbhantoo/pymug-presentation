@@ -1,0 +1,17 @@
+{
+    "name": "product-app",
+    "version": "1.0.0",
+    "description": "This is zepbook product app",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "ZeptoBook",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.6.0",
+        "xmlhttprequest": "^1.8.0"
+    }
+}
